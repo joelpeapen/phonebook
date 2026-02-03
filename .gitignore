@@ -1,7 +1,6 @@
 .env
 .vite
 vite.config.js
-eslint.config.js
 
 logs
 *.log
